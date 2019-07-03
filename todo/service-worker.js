@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.365a5bdb8bc0905af5d21cb2dfe6795a.js"
+  "/todo/precache-manifest.8086bcd446077f1d4b0f9a3b2f627cc9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "planing-vue"});
